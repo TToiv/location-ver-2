@@ -20,7 +20,7 @@ $(document).on('pageinit', function() {
 
 
 
-//Call this function when you want to watch for chnages in position
+//Call this function when you want to watch for changes in position
 function updatePosition() {
 	
 	//change time box to show updated message
